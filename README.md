@@ -1,6 +1,8 @@
 # class-notes
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+-----
+
+| Date          |     Goal      |   Recording   | Notes         | 
+| ------------- | ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  |               |               | 
+| Content Cell  | Content Cell  |               |               | 
