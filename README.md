@@ -6,7 +6,7 @@
 
 -----
 
-| Date          |     Goal      |   Recording   | Notes         | 
+| Date          |     Goal      |   Recordings   | My Notes         | 
 | ------------- | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  |               |               | 
 | Content Cell  | Content Cell  |               |               | 
