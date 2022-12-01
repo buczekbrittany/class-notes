@@ -2,7 +2,7 @@
 
 -----
 
-# A table of content for my own reference. Bootcamp class notes. <3
+## A table of content to study from for my own reference. Lists class recordings along with my notes from each recording.
 
 -----
 
